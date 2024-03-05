@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "empName": "hritiket",
+      "empSalary": "80000",
+      "empcompany": "Conneqt",
+      "id": 4
+    },
+    {
+      "empName": "Sonu",
+      "empSalary": "90000",
+      "empcompany": "Wipro",
+      "id": 5
+    },
+    {
+      "empName": "Ansh",
+      "empSalary": "66777",
+      "empcompany": "Cognizant",
+      "id": 7
+    },
+    {
+      "empName": "Dayanand",
+      "empSalary": "500000",
+      "empcompany": "Tcs",
+      "id": 8
+    },
+    {
+      "empName": "Abhi",
+      "empSalary": "80000",
+      "empcompany": "Qspider",
+      "id": 10
+    },
+    {
+      "empName": "Darshan",
+      "empSalary": "loan mein hai saala",
+      "empcompany": "single",
+      "id": 11
+    },
+    {
+      "empName": "Rahul",
+      "empSalary": "5000",
+      "empcompany": "sggs",
+      "id": 12
+    },
+    {
+      "empName": "Sandeep",
+      "empSalary": "50000",
+      "empcompany": "Wipro",
+      "id": 13
+    }
+  ]
+}

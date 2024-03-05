@@ -1,0 +1,158 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+#nav {
+  position: fixed;
+  height: 70px;
+  width: 100%;
+  box-shadow: 0px 0px 2px gray;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+
+  /* background-color: rgb(255, 0, 21); */
+}
+#nav > article {
+  height: 70px;
+  width: 96%;
+  border: 1px;
+  display: flex;
+}
+#nav > article > .Logo {
+  height: 70px;
+  width: 25%;
+}
+#nav > article > .Menu {
+  height: 70px;
+  width: 45%;
+}
+#nav > article > .Btn {
+  /* background-color: rgb(211, 99, 99); */
+  height: 70px;
+  width: 30%;
+}
+#logoBlock > p {
+  margin-left: 5px;
+  
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.7vw;
+  font-weight: 500;
+  color: rgb(45, 136, 226);
+}
+#logoBlock {
+  height: 70px;
+  align-items: center;
+  display: flex;
+  /* background-color: blueviolet; */
+}
+#innermenu {
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+  /* background-color: blue; */
+}
+.a1 > a {
+  text-decoration: none;
+  font-size: 1vw;
+  font-weight: 550;
+  color: rgb(148, 146, 146);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.a1 > a:hover {
+  color: rgb(78, 75, 75);
+  cursor: pointer;
+}
+#btn1 {
+  height: 80px;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: end;
+}
+#Main {
+  margin-bottom: 10px;
+  background-color: rgb(45, 136, 226);
+  width: 33%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
+#Main > svg {
+  height: 20px;
+  margin-left: 5px;
+  color: white;
+}
+#Main > button {
+  border: none;
+  background-color: rgb(45, 136, 226);
+  color: aliceblue;
+  font-weight: bold;
+  margin-left: 7px;
+}
+#Center {
+  width: 100%;
+  height: 420px;
+  display: flex;
+}
+#para {
+  width: 50%;
+  height: 420px;
+
+  padding-top: 160px;
+  padding-left: 80px;
+}
+#para > h1 {
+  font-weight: 600;
+  font-size: 40px;
+  color: rgb(73, 72, 72);
+  font-family: Arial, Helvetica, sans-serif;
+}
+#para > h2 {
+  font-weight: 700;
+  font-size: 48px;
+  color: rgb(45, 136, 226);
+  font-family: Arial, Helvetica, sans-serif;
+}
+#para > p {
+  color: rgb(104, 102, 102);
+  margin-top: 17px;
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#img1 {
+  height: 420px;
+  width: 50%;
+  margin-bottom: 200px;
+}
+#img1 > img {
+  width: 90%;
+  height: 550px;
+  margin-bottom: 50px;
+}
+.hire>button{
+    margin-top: 26px;
+    height: 45px;
+    width: 26%;
+    margin-right:19px ;
+    background-color: white;
+}
+#exp{
+    background-color:  rgb(45, 136, 226);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+#Hire{
+   color:  rgb(45, 136, 226);
+    border: 1px solid  rgb(45, 136, 226);
+    font-size: 15px;
+    border-radius: 5px;
+    text-shadow: 0px 1px  rgb(45, 136, 226);
+}
